@@ -41,9 +41,4 @@ YouTube link / file
 | Search | sentence-transformers (all-MiniLM-L6-v2), ChromaDB |
 | PDF | ReportLab |
 
-## Limitations
 
-- Runs locally. YouTube blocks requests from cloud server IPs, so link downloads are unreliable on free hosting.
-- Whisper on a CPU is slow for long videos.
-- Hinglish timestamps are accurate to about 25 seconds, because Sarvam processes audio in short pieces.
-- The PDF uses a default font, so non-Latin scripts are not supported.
