@@ -1,5 +1,10 @@
 # Video Summarizer
 
+## Demo
+
+https://github.com/user-attachments/assets/013046fc-2e1f-41da-9d47-c5f0607af832
+
+
 ## What it does
 
 Video Summarizer turns a YouTube video or a recording into a summary, a searchable timestamped transcript and a downloadable PDF. You can type a topic and jump straight to the moment it is discussed in the video.
